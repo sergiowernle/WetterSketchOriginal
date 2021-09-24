@@ -1,0 +1,5 @@
+138a08e3c4058d65c4805996a32973987e968224 Der Boden
+e3727cab1900d4eb268539890f6f0d5bb4af3543 Die Schneeflocken
+7d7382512bd25cdfebedd25ac7850d41b3826e3c Die Sonne
+8e46ff9891377b9745bce2f05a38d1e1f7293721 Der blaue Himmel
+58a8bfd8ae3155e8c5fbdb0ea76dae1adc15fb8f initial commit

@@ -15,6 +15,10 @@ function draw() {
 }
 {fill("white")
 rect(0,400,500,300)}
+{fill(102,51,0)
+rect(300,300,50,100)}
+{fill("green")
+  circle(325,250,150)}
   // create a random number of snowflakes each frame
 fill("white")
   for (let i = 0; i < random(5); i++) {
