@@ -7,13 +7,16 @@ function setup() {
 }
 
 function draw() {
-  background('blue');
+  background(0,100,255);
   let t = frameCount / 60; // update time
-{circle(100,100,100)
-fill("yellow")
-}
 
+{fill("yellow")
+  circle(100,100,100)
+}
+{fill("white")
+rect(0,400,500,300)}
   // create a random number of snowflakes each frame
+fill("white")
   for (let i = 0; i < random(5); i++) {
     snowflakes.push(new snowflake()); // append snowflake object
   }
